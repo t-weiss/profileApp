@@ -1,0 +1,35 @@
+img {
+  width: 100%;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+
+p {
+  font-family: "Work Sans", sans-serif;
+}
+
+.profileName {
+  font-size: 20px;
+  font-weight: 800;
+}
+.profileContact {
+  color: grey;
+  font-weight: 500;
+}
+.profileBio {
+  font-weight: 500;
+}
+.innerContainer {
+  padding: 10px;
+}
+.button {
+  display: block;
+  width: 100%;
+  background-color: #505355;
+  color: white;
+  border-radius: 5px;
+  align-content: center;
+  font-family: Work Sans;
+  text-decoration: none;
+  border: none;
+}
